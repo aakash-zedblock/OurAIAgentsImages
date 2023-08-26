@@ -12,4 +12,5 @@
 ![aigrowth](https://github.com/aakash-zedblock/OurAIAgentsImages/assets/136889476/d789af0c-35bc-4a4b-9c32-a954e5c50dbc)
 ![aiSupport](https://github.com/aakash-zedblock/OurAIAgentsImages/assets/136889476/91cd6fff-fe52-4bad-aad5-41576905691b)
 ![AINetwork](https://github.com/aakash-zedblock/OurAIAgentsImages/assets/136889476/a60c8fbe-01ea-4c56-b5da-575faeabb258)
+![zedblock-logo](https://github.com/aakash-zedblock/OurAIAgentsImages/assets/136889476/1ac0fa43-acca-480a-a525-95b00d6280b6)
 
